@@ -7,6 +7,7 @@
     "axios": "0.21.1",
     "bootstrap": "4.5.3",
     "bootstrap-css": "3.3.7",
+    "bootstrap4-min-css": "^1.0.1",
     "bootstrapjs": "2.0.0",
     "jquery": "3.5.1",
     "popper.js": "1.16.1",

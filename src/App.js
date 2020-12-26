@@ -1,7 +1,6 @@
 import React,{useState,useEffect} from 'react';
 import './App.css';
 import 'bootstrap-css';
-
 import 'jquery';
 import 'popper.js';
 import 'reactstrap'
