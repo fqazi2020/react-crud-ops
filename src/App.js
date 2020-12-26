@@ -1,10 +1,10 @@
 import React,{useState,useEffect} from 'react';
 import './App.css';
-import '../node_modules/bootstrap/dist/css/bootstrap.css';
+import 'bootstrap-css';
 
 import 'jquery';
 import 'popper.js';
-import '../node_modules/bootstrap/dist/js/bootstrap.js'
+import 'reactstrap'
 import Users from './Componenets/Pages/Users';
 import Navbar from "./layouts/navbar";
 import Home from './Componenets/Pages/Home';
